@@ -1,0 +1,11 @@
+.todo-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.todo-text {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+}
